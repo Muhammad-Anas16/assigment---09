@@ -90,7 +90,7 @@ button i {
 
 .main-box{
     background-color: black;
-    height: 45vh;
+    
 }
 
 .box-card{
@@ -135,4 +135,17 @@ button i {
 
 .container-sm{
     width: 80vw;
+}
+
+
+
+
+
+
+/* ****************************@media screen**************************** */
+
+@media only screen and ( max-width: 520px ) {
+    .main-box{
+        flex-direction: column;
+    }
 }
