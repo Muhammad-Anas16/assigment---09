@@ -120,7 +120,7 @@ button i {
 .franchise-section-01{
     background-color: rgb(15, 15, 15);
     color: white;
-    height: 50vh;
+    height: 100vh;
 }
 
 .franchise-section-01 h1{
@@ -137,6 +137,12 @@ button i {
     width: 80vw;
 }
 
+/* ****************************franchise cards**************************** */
+
+.cards-section{
+    width: 96vw;
+    color: white !important;
+}
 
 
 
